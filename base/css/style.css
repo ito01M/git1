@@ -16,14 +16,17 @@
     background-color: #ccc;
     float: left;
 }
-#sub {
+/*#sub {
     width: 300px;
     height: 500px;
     background-color: #ccc;
     float: right;
-}
+}*/
 #footer {
     height: 100px;
     background-color: #ccc;
     clear: both;
+}
+#about #main {
+    width: 940px;
 }
